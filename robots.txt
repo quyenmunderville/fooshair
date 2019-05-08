@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aidieheir.translateonlinux.org/sitemap.xml
